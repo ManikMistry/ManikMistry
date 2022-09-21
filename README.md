@@ -1,25 +1,26 @@
-[![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manik</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="gif" width="400" src="https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif">
-
+<img align="right" width="400" alt="gif" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c2d09418aea61ef29762c3190c851efeddfd5185&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="manikmistry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack development**
 
-- 💬 Ask me about **JavaScript,React**
+- 💬 Ask me about **DSA,Html&CSS,JavaScript,ReactJs**
 
 - 📫 How to reach me **mkmistryhd2019@gmail.com**
 
 - 📄 Know about my experiences [https://creative-phoenix-2eb196.netlify.app/](https://creative-phoenix-2eb196.netlify.app/)
 
+- ⚡ Fun fact **No one knows about me more than my phone and my laptop,because no one has spent more time with me than my lapi and phone.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manik mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manik mistry" height="30" width="40" /></a>
-<a href="https://fb.com/manik mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manik mistry" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_manik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_manik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manik-mistry-736a69241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manik-mistry-736a69241/" height="30" width="40" /></a>
+<a href="https://fb.com/manïk mïstry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manïk mïstry" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_manik_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_manik_01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
