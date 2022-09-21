@@ -1,7 +1,7 @@
-[![MasterHead](https://app-development-expert-dallas.weebly.com/uploads/7/7/9/9/77992566/web-development_orig.gif)](https://rishavchanda.io)
+[![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manik</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="gif" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761189a726fbd472cf144647524e79543c4af0a60bda&rid=giphy.gif&ct=g">
+<img align="right" alt="gif" width="400" src="https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="manikmistry" /> </p>
 
