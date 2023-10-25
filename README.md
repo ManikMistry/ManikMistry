@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Manik</h1>
 <h3 align="center">A passionate react developer from India</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="..."/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt=".."/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="manikmistry" /> </p>
 
