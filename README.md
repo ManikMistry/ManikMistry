@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/manikmistry0" target="blank"><img src="https://img.shields.io/twitter/follow/manikmistry0?logo=twitter&style=for-the-badge" alt="manikmistry0" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Javascript, React.js, Next.js**
 
