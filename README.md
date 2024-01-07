@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="manikmistry" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manikmistry0" target="blank"><img src="https://img.shields.io/twitter/follow/manikmistry0?logo=twitter&style=for-the-badge" alt="manikmistry0" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Javascript, React.js, Next.js**
