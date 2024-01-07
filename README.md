@@ -21,8 +21,8 @@
 <a href="https://www.leetcode.com/mkmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mkmistry" height="30" width="40" /></a>
 </p>
 
-<p align="left">Languages and Tools:</p>
-<img src="https://camo.githubusercontent.com/215152489115740ec5ba12020c86e2b3a53a9dbb72d6a3b0803cdf22d1c8c238/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c6a6176612c6a6176617363726970742c747970657363726970742c72656163742c6e6578742c68746d6c2c6373732c736173732c626f6f747374726170" alt="img1"/>
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://camo.githubusercontent.com/215152489115740ec5ba12020c86e2b3a53a9dbb72d6a3b0803cdf22d1c8c238/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c6a6176612c6a6176617363726970742c747970657363726970742c72656163742c6e6578742c68746d6c2c6373732c736173732c626f6f747374726170" alt="img1" margin-top="100px"/>
 <img src="https://camo.githubusercontent.com/ad30a9b44c4a4c40a79afddb79e53bf95861692b1a60afbfb93ee9206b950f1c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e642c6e65746c6966792c6c696e75782c7673636f64652c646973636f72642c696465612c6c696e6b6564696e2c6e6f64656a732c657870726573736a732c6d6f6e676f6462" alt="img2"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikmistry&show_icons=true&locale=en&layout=compact" alt="manikmistry" /></p>
 
