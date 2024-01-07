@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **mkmistryhd2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cLdxWd_20wGmiA6d4QvMWvT6M4GpP2Uc/view?usp=sharing]
-
 - ⚡ Fun fact **There are only 10 types of people in the world: Those who understand binary and those who don't.**
 
 <h3 align="left">Connect with me:</h3>
