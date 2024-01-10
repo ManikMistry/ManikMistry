@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Javascript, React.js, Next.js**
+- 💬 Ask me about **Javascript, React.js, Node.js**
 
 - 📫 How to reach me **mkmistryhd2019@gmail.com**
 
