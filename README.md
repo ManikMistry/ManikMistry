@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="manikmistry" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Node, Express & MongoDB**
 
 - 💬 Ask me about **Javascript, React.js, Node.js**
 
