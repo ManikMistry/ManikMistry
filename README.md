@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node, Express & MongoDB**
 
-- 💬 Ask me about **Javascript, React.js, Node.js**
+- 💬 Ask me about **Javascript, ReactJs**
 
 - 📫 How to reach me **mkmistryhd2019@gmail.com**
 
