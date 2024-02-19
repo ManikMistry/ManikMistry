@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manik </h1>
-<h3 align="center">A passionate react developer from India</h3>
+<h3 align="center">A passionate React Developer from India</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt=".."/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="manikmistry" /> </p>
